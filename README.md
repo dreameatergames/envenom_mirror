@@ -1,2 +1,2 @@
 # envenom_mirror
-a mirror of Codename: Envenom by RenegadeC/RennyC
+a mirror of the QuakeC code for Codename: Envenom by RenegadeC/RennyC
